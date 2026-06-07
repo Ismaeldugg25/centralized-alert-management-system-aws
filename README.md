@@ -2,6 +2,8 @@
 
 Centralized alert management system using AWS User Notifications, CloudWatch alarms, and S3 monitoring.
 
+<img width="624" height="282" alt="0308b86c1986f514cc7ac98748f9c85c_kix g4x8cy4yvhun" src="https://github.com/user-attachments/assets/382462f9-de0e-4677-9fea-cb7409d11892" />
+
 ## Problem
 
 Enterprise organizations struggle with alert fatigue and scattered notifications across multiple AWS services, making it difficult to respond promptly to critical infrastructure issues. Traditional notification systems send alerts to various channels without central coordination, resulting in missed alerts, delayed incident response, and operational inefficiencies that can impact business continuity.
